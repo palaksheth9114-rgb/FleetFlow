@@ -4,3 +4,5 @@
 node_modules
 mysqlpas.txt
 *.log
+[Ss]creenshots/
+[Ss]creenshot/
